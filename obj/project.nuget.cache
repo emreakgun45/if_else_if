@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "451bKOjhLmFFqlfJvNtkpiT9TYI740Ldw7v2qtD3M8FIIdlbY1Nvgb1UbYXl1p8peaE8it9xpf6L7xdAMyHpbg==",
+  "dgSpecHash": "k5I1vIZwusRvTDqxnerP/Hf3r4zNLyGfWDUl62/CLYAjKi9ciIvmPeg7mF/eZ68aZF24a3YEI9cRQBUCRV+eRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fearl\\OneDrive\\Desktop\\Pratikler\\if_else_if\\if_else_if.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\emreakgun45\\if_else_if\\if_else_if.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cafer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
