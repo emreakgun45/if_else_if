@@ -16,9 +16,9 @@ namespace if_else_if
                 System.Console.WriteLine("Iyi geceler!");
 
 
-            string sonuc = time<=18 ? "Iyi gunler!" : "Iyi geceler!";
+            string sonuc = time<=16 ? "Iyi gunler!" : "Iyi geceler!";
             
-            sonuc = time>=6 && time <= 11 ? "Gunaydin!" : time<= 18 ? "Iyi gunler!" : "Iyi aksamlar";
+            sonuc = time>=6 && time <= 12 ? "Gunaydin!" : time<= 18 ? "Iyi gunler!" : "Iyi aksamlar";
 
             System.Console.WriteLine(sonuc);
 
